@@ -1,0 +1,5 @@
+question,response,accuracy,relevance,clarity,completeness,instruction_following,feedback
+"What is photosynthesis?","Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to produce food and oxygen.",5,5,5,5,5,"Accurate, relevant, clear, and complete."
+"What is the capital of India?","The capital of India is New Delhi.",5,5,5,5,5,"Correct and concise response."
+"What is Python?","Python is a programming language known for its simple syntax and wide range of applications.",5,5,5,4,5,"Clear and relevant; could include more examples."
+"What is concrete?","Concrete is a construction material generally made from cement, fine aggregate, coarse aggregate, and water.",5,5,5,5,5,"Accurate and suitable for a basic civil engineering question."
